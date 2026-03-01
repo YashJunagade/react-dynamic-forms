@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.storybook-out/
+coverage/
+*.local
+.DS_Store
